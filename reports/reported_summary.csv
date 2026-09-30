@@ -1,0 +1,15 @@
+group,condition,strict_accuracy_percent,provenance
+prompt,ao,75.80,Historical notebook output and final Notion report; not recomputed
+prompt,cot,82.17,Historical notebook output and final Notion report; not recomputed
+prompt,cove,81.50,Historical notebook output and final Notion report; not recomputed
+model,gpt-4o,91.00,Historical notebook output and final Notion report; not recomputed
+model,gpt-4o-mini,85.17,Historical notebook output and final Notion report; not recomputed
+model,med42,82.94,Historical notebook output and final Notion report; not recomputed
+model,gpt-5,82.61,Historical notebook output and final Notion report; not recomputed
+model,medichat,57.39,Historical notebook output and final Notion report; not recomputed
+question_type,TFQ2,89.40,Historical notebook output and final Notion report; not recomputed
+question_type,MCQ,85.80,Historical notebook output and final Notion report; not recomputed
+question_type,TFQ3,81.80,Historical notebook output and final Notion report; not recomputed
+question_type,RQ,80.53,Historical notebook output and final Notion report; not recomputed
+question_type,TFQ,74.87,Historical notebook output and final Notion report; not recomputed
+question_type,MAQ,66.53,Historical notebook output and final Notion report; not recomputed

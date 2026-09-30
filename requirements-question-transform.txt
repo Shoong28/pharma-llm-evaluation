@@ -1,0 +1,2 @@
+# Legacy MedCAT transformation stage: use a separate compatible environment.
+medcat>=1,<2

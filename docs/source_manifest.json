@@ -1,0 +1,212 @@
+[
+  {
+    "source": "data_drug/analyze_atc_n_missing.py",
+    "destination": "data_drug/analyze_atc_n_missing.py",
+    "source_sha256": "ec04f7bb707ea53fde33fae660b596e9578f7c6ccf1134f2132421612b799d9a",
+    "copied_sha256": "d31dda90466679604691cf28b655224fd37a6e0b6cae86808b742d2f2e87a326"
+  },
+  {
+    "source": "data_drug/simple_missing_analysis.py",
+    "destination": "data_drug/simple_missing_analysis.py",
+    "source_sha256": "e87140fd0f59d81307e5d070bb55463a4d5d38217bd6b87ea2d256c807bf6053",
+    "copied_sha256": "7ab4db21fdcdcbbe4ecb693c0e619b8383d0ecbde6402556ebf16c663f86a624"
+  },
+  {
+    "source": "data_drug/parse_single_drug.py",
+    "destination": "data_drug/parse_single_drug.py",
+    "source_sha256": "0ed5aee8354f33e170cea228a85d03da696badaab00a60e0f998a997e11097d7",
+    "copied_sha256": "b5d13cf0cde9cb376710b325a61ad53f2e587835681289fb481fd48a9f884730"
+  },
+  {
+    "source": "data_drug/analyze_missing_values.py",
+    "destination": "data_drug/analyze_missing_values.py",
+    "source_sha256": "32901879503693a3204fe86a8fda98b31241d718c57d48a9c3afd022e298faeb",
+    "copied_sha256": "e3e2e74df2679031ace029d0162142a8f385d50049468efe7e7d8e81be85c118"
+  },
+  {
+    "source": "data_drug/simple_parse_drug.py",
+    "destination": "data_drug/simple_parse_drug.py",
+    "source_sha256": "f9c76f82448355ca518b87c829a570f30030188006111dd16949b1324aaf9024",
+    "copied_sha256": "242e20e300616362d468b635afabb946cb45bee58314d97382a40241f35afeba"
+  },
+  {
+    "source": "data_drug/full_missing_analysis.py",
+    "destination": "data_drug/full_missing_analysis.py",
+    "source_sha256": "434110e4e76f6fb35284d6baf9f78094872940f763eb137ed3ab528737205819",
+    "copied_sha256": "a9cb9816636781f7a52358c6132e5125fb6c958a1952756a04aab2cb84f26d60"
+  },
+  {
+    "source": "data_drug/drugbank_data/filter_drugbank.py",
+    "destination": "data_drug/drugbank_data/filter_drugbank.py",
+    "source_sha256": "780d94e34ec0541569bd4652d073d791dc3a34f0456e37d0df5909ceb2580bd4",
+    "copied_sha256": "dc84db6dbbe3bf9b5c8f4dbb8eccb98f8d30573ce634b9ceb6a3e95deb2d302e"
+  },
+  {
+    "source": "data_drug/drugbank_data/filter_drugbank_modified.py",
+    "destination": "data_drug/drugbank_data/filter_drugbank_modified.py",
+    "source_sha256": "4fa53cbc5fb2f2f0368115288617c24bcab9cb98028a892f74c9dc05e70de988",
+    "copied_sha256": "e421fa02047359ee6bf1839b9d7c28fadab53d31f8b8864707c9bdd70b190139"
+  },
+  {
+    "source": "data_drug/drugbank_data/atc_split/analyze_who_atc.py",
+    "destination": "data_drug/drugbank_data/atc_split/analyze_who_atc.py",
+    "source_sha256": "637b61f7b207a6344eb2005f257ec1af44f7e73c07306837adccb078239f9216",
+    "copied_sha256": "01568e5f6e24b0da458d592a7ef4ddbbe4bf70e4385b63ce03cb57200de910e7"
+  },
+  {
+    "source": "data_drug/drugbank_data/atc_split/split_by_atc_safe.py",
+    "destination": "data_drug/drugbank_data/atc_split/split_by_atc_safe.py",
+    "source_sha256": "3688b8fa6d7ca2a7da01af86526c5277e7645f939f6cb7a6e23b3d2ad93174fa",
+    "copied_sha256": "76af8fbb6e40260fc974e37fcbaeaa2b7f49074e6af2991100a93df3f9b99d5e"
+  },
+  {
+    "source": "data_drug/drugbank_data/atc_split/check_drug_groups.py",
+    "destination": "data_drug/drugbank_data/atc_split/check_drug_groups.py",
+    "source_sha256": "f5e474b38a5fa7640f97c35a2e5e5f1a5312d8643d02c4ba855b3db3cc8008db",
+    "copied_sha256": "fad87730b30b36a98644e6c7fe6968683c055713b881cd33c85cc377df274a1a"
+  },
+  {
+    "source": "generate_question/convert_tfq_to_csv.py",
+    "destination": "generate_question/convert_tfq_to_csv.py",
+    "source_sha256": "ab27ab8cf3a1ff008188561dc9aa96a3d3e6bfc9c019688128f9620d115ec7eb",
+    "copied_sha256": "b3c6df14f7a11209500582b3073ffcb6b541a9ddf54cf6ef6ddf4ab6b71061ca"
+  },
+  {
+    "source": "generate_question/convert_rq_to_csv.py",
+    "destination": "generate_question/convert_rq_to_csv.py",
+    "source_sha256": "5d5135050bfb1ecf7daf3505e0eccc78481f5224b53a8d6aee974931ade73627",
+    "copied_sha256": "119437a5f47547bf4f50e8c23a3fb78a983d43f6c6a1f70f278aed8c7dd2c84c"
+  },
+  {
+    "source": "generate_question/gen_medqa_questions.py",
+    "destination": "generate_question/gen_medqa_questions.py",
+    "source_sha256": "b29eddedb7c76f7ae78d483a175bac819096fcc57836385477ca9071492ab852",
+    "copied_sha256": "3259be4b2424091cea2ece72ca67baae523e50cc7cd0d0b6c2da5be4888f5960"
+  },
+  {
+    "source": "generate_question/generate_tfq2.py",
+    "destination": "generate_question/generate_tfq2.py",
+    "source_sha256": "1b8737aa3320f00e1b4e4d41b3a46e7c9ae64cf3a285023489d4036c59f7599d",
+    "copied_sha256": "2a1797d403885c8c235d99b40430b18a4d639f0c0330374e9f5cabf0a9df93a7"
+  },
+  {
+    "source": "generate_question/recognize_and_rewrite_medqa.py",
+    "destination": "generate_question/recognize_and_rewrite_medqa.py",
+    "source_sha256": "6ed95953c792984c042eca4ef8a30c01baa998d45dda0ee0d17e551c2643b634",
+    "copied_sha256": "3e0ae04575f81e4c5b98a580b20a15a54c2e78dada776823a5f712d33701868f"
+  },
+  {
+    "source": "generate_question/generate_tfq3.py",
+    "destination": "generate_question/generate_tfq3.py",
+    "source_sha256": "fa686dc674aed1944525988837a4665e84d27d8c610937bad68d76095689cd3c",
+    "copied_sha256": "4fdc3b11e0f5b5321d9307457d49e15ece6b837e19f1716884ac90c3b0c9fc75"
+  },
+  {
+    "source": "generate_question/convert_mcq_to_csv.py",
+    "destination": "generate_question/convert_mcq_to_csv.py",
+    "source_sha256": "f0377d9080a541d5bb53aef6d44cb0fcb4f74d12d0d3f0d0ea46e0e9382abc0f",
+    "copied_sha256": "ce2ca3b29a10b18e9fe29cae1ee35f7246c59b91a9d2c3152aa605571be9c692"
+  },
+  {
+    "source": "generate_question/create_concept_attributes.py",
+    "destination": "generate_question/create_concept_attributes.py",
+    "source_sha256": "770d478b4713df064a515ddcd825d1b5ee629204716907641fec5cf9672cb66e",
+    "copied_sha256": "80ce86cccdca0f0596e94f3291dcbdcdf0d075188d6b64b6c060444471ad4115"
+  },
+  {
+    "source": "generate_question/util/jsonl을_엑셀로.py",
+    "destination": "generate_question/util/jsonl을_엑셀로.py",
+    "source_sha256": "2b328c7f6fd8e37727a68019fb56eb1897aefd939b66d4cb430205ef4a862d89",
+    "copied_sha256": "46765a49bba3d838c5d8736609271d33990ccd92d65ab0e0945d08a5925dc8da"
+  },
+  {
+    "source": "generate_question/util/exist_four_or_more.py",
+    "destination": "generate_question/util/exist_four_or_more.py",
+    "source_sha256": "1e5a2d7e85fbf2464a69002a51c571f24c1f722fd3082508a5c38ef76ea9314b",
+    "copied_sha256": "fe7de1d89001466c085dbeaa76627b317ac3215ddf80dc13913af4e56eaf7a70"
+  },
+  {
+    "source": "generate_question/util/missing_count.py",
+    "destination": "generate_question/util/missing_count.py",
+    "source_sha256": "6860335fa20f440cbee85ef5e2ec4a2fe1e89b6bcf33a05df2350dad9bb14d29",
+    "copied_sha256": "e6a5e4b75650210d26096167551904c99854cdba8845047a3e706c4fe5523724"
+  },
+  {
+    "source": "generate_question/data/extract_drugs.py",
+    "destination": "generate_question/data/extract_drugs.py",
+    "source_sha256": "37cb3d278d8241c57c9f3f7e070f7ae62f75336fb00191509164029b09d7dc56",
+    "copied_sha256": "156eb9587227e3a80794b9b94dd49bcadc0f05064e368448ff2fac11a870a649"
+  },
+  {
+    "source": "generated_ques/select_70_samples.py",
+    "destination": "generated_ques/select_70_samples.py",
+    "source_sha256": "5543ae15140270b82f677705ecbb2f06ef2a51c1f0ff74d5f4227516e07644b8",
+    "copied_sha256": "254e4c6df66ee8694f4c74404e3f8aca3e11649d8541bf52366085e041c863b8"
+  },
+  {
+    "source": "generated_ques/data_cleaning.py",
+    "destination": "generated_ques/data_cleaning.py",
+    "source_sha256": "548876118768d0d72cf6e2f896f44c3284c9e8eec7d891ee0dc743b15a8ed253",
+    "copied_sha256": "36d73faf90f7aae4db91ed2a97b178ae763e377a7c3d49ac5b498530c81fd9e8"
+  },
+  {
+    "source": "generated_ques/sampled/merge_files.py",
+    "destination": "generated_ques/sampled/merge_files.py",
+    "source_sha256": "af2d7b9a9e7ac65fab980fb755b2decddb67e14b44815b9057261ab3ad9fc8c0",
+    "copied_sha256": "4aa62c8b5cd3b2cefc51e44d6b3b40643321e8ed76c14faf78114c32eb4b9e69"
+  },
+  {
+    "source": "generate_question/객관식생성.ipynb",
+    "destination": "generate_question/generate_mcq.ipynb",
+    "source_sha256": "182f51b8a09a26af5ef6e9ea5e13c8f0a7f80dbcebb6d44d4b475d04b87ea3df",
+    "copied_sha256": "718d38f0a6fea3ce05a3fec94dc913f01a023abcf7e43ed7ad42e94b8eb6bf12"
+  },
+  {
+    "source": "generate_answer/generate_w_gpt.ipynb",
+    "destination": "generate_answer/generate_w_gpt.ipynb",
+    "source_sha256": "0656c20e21a18c0964ede9238f4616c8a106894715adf9e4c18b1bda735ff3a6",
+    "copied_sha256": "1386ccda916c1a848e96a81aa4ca95fc5ca5d9f79d6996ad9ec5662f9a84979d"
+  },
+  {
+    "source": "generate_answer/generate_w_local_llm.ipynb",
+    "destination": "generate_answer/generate_w_local_llm.ipynb",
+    "source_sha256": "344112707f3716eb546937ecfe450ab2127909a126bac9683900885c340e3632",
+    "copied_sha256": "5274de75c8ba3be1a3e1b20d0e06043bafdd29666985b6b30b2a07c7bc81f022"
+  },
+  {
+    "source": "generate_answer/merge_prompts.ipynb",
+    "destination": "generate_answer/merge_prompts.ipynb",
+    "source_sha256": "5ba8d7755c35b4e66d40cc79a191cd9170a34eb26277100c93701fc7f75a3867",
+    "copied_sha256": "3cd14300eff1740eed23f3bed8af7c8dd0499e1aea4dd85ef2fa180a7b8e018e"
+  },
+  {
+    "source": "최종실험정확도/accuracy_analysis.ipynb",
+    "destination": "evaluation/accuracy_analysis.ipynb",
+    "source_sha256": "d0a03dae7ffd201c3ec027dc8c7cddeaf08c0b95e7783b0f649f2e12f22b8913",
+    "copied_sha256": "810516112bfc3cecc3d6b9dfd6c8dc4bb4b15c5ede8ec457adff8a0698b5a04c"
+  },
+  {
+    "source": "analyze_performance.py",
+    "destination": "evaluation/analyze_performance.py",
+    "source_sha256": "ad84c918c3522a6a992db64b67897b9fc8e3616b346dd2e8aea287a4d27ba3b6",
+    "copied_sha256": "6701967813f037ccb1dec853f93646d3d7381e5641068581da7dd0b896f5fb11"
+  },
+  {
+    "source": "기타/논문/strict.py",
+    "destination": "reports/plot_reported_results.py",
+    "source_sha256": "6ce864925cd5d53f158d03282a959da3ba87b1b27e8e2554abb6b2d1a7d3de0b",
+    "copied_sha256": "153fcb602c12a279c02c81f65e03b63c67dca313a831c97c73345651a5f94d72"
+  },
+  {
+    "source": "기타/논문/valid.py",
+    "destination": "evaluation/plot_valid_metrics.py",
+    "source_sha256": "a5151661a51b847ab3c91da36de7ea01d8fab5d7ea5feca867b9d8b94ba15ea4",
+    "copied_sha256": "f55fbc54562a1077d46e153e608ee09e968adda7d6393f33674259d4b765c8af"
+  },
+  {
+    "source": "기타/MultifacetEval/LICENSE",
+    "destination": "third_party/MultifacetEval.LICENSE",
+    "source_sha256": "66cad4f6949fd8f5dd7e3ed765d9ec6878919de5b8d2a7b29e7483a6e891bc16",
+    "copied_sha256": "66cad4f6949fd8f5dd7e3ed765d9ec6878919de5b8d2a7b29e7483a6e891bc16"
+  }
+]

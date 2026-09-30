@@ -1,0 +1,30 @@
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+# Private source data, generated questions and model weights
+*.xlsx
+*.xls
+*.xml
+*.jsonl
+*.zip
+*.bin
+*.pt
+*.pth
+*.safetensors
+models/
+**/output/
+**/outputs/
+**/data/*
+!**/data/*.py
+**/analysis_results/
+generate_question/medqa/
+generate_question/concept_attributes.json
+generate_question/synonyms_of_options.json
+reports/generated/
